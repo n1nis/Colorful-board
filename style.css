@@ -26,6 +26,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   margin-bottom: 3em;
+  margin-top: 10em;
 }
 
 .buttons-group {
