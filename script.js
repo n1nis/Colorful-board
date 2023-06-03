@@ -10,6 +10,7 @@ let range = 360;
 
 const createSquares = (speed) => {
   box.innerHTML = "";
+  document.body.style.zoom = "80%"
 
   for (let i = 0; i < squares; i++) {
     const square = document.createElement("div");
